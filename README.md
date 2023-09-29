@@ -5,3 +5,4 @@
 
 # Databricks (databricks industry solutions)
 1. https://github.com/orgs/databricks-industry-solutions/repositories?page=2&type=all
+2. https://www.databricks.com/solutions
